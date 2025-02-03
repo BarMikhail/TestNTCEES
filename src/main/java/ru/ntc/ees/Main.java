@@ -6,7 +6,7 @@ public class Main {
         Reader reader = new Reader();
         Recorder recorder = new Recorder();
 
-        // Запуск в файл
+        // Запись в файл
         recorder.writingEvenNumber.start();
         recorder.writingOddNumber.start();
 
